@@ -5,3 +5,6 @@ Lo Smart Contact è visualizzabile al seguente indirizzo: https://mumbai.polygon
 
 Nel file ERC20EasyHouse.sol ho creato un token chiamato EasyHouse (ESHS) e deployato su Testnet Amoy Polygon.
 Lo Smart ontract è visualizzabile al seguente indirizzo: https://amoy.polygonscan.com/address/0x4CDbaf33140039eac3c936b47a3b64ea0a865B00
+
+Nel file ERC721.sol ho creato un NFT minter e deployato su Testnet Amoy di Polygon.
+Lo Smart Contract è visibile al seguente indirizzo: 0xB0181E4a7894cEC63d83220E45159e99cA6b4c2A
